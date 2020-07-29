@@ -39,9 +39,9 @@ const generateAboutMe = function () {
         <h2 class = 'sectionHeader' id = 'about-header'> About Me </h2>
         <img id = 'headshot' src = 'https://i.imgur.com/HugwxF3.jpg'/>
         <p class = 'about-body'>
-          I am a fullstack developer,  musician,  and green belt in lean & six sigma.
+          I am a fullstack developer, musician, and green belt in lean & six sigma.
           I am graduate of Thinkful's Engineering Immersion course, however my education
-          began at the University of San Diego studying Industrial and Systems Engineering.
+          began at the University of San Diego, studying Industrial and Systems Engineering.
           I have experience with data analytics as well as manufacturing processes.
           I have worked with many teams of engineers and I am excited to join your team. Engineering has
           always been my passion and bringing change to my community through technology is my goal.
